@@ -31,7 +31,7 @@ Some of the technologies and tools I work with include:
   - <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> Node.js <img width="50" height="50" src="https://img.icons8.com/ios/50/express-js.png" alt="express-js"/>Express.js
 
 - 🗃️ **Database Technologies:** 
-  - <img src="https://img.icons8.com/color/48/000000/mysql.png"/> MySQL <img [src="https://img.icons8.com/color/48/000000/mongodb.png"](https://icons8.com/icons/set/expressjs)/> MongoDB
+  - <img src="https://img.icons8.com/color/48/000000/mysql.png"/> MySQL <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.desuvit.com%2Fwp-content%2Fuploads%2F2021%2F03%2Fmongodb-icon.png&tbnid=rUG_aG-sJu1aaM&vet=10CAgQxiAoCWoXChMIoKfXnoGZhAMVAAAAAB0AAAAAEAc..i&imgrefurl=https%3A%2F%2F3tdesign.edu.vn%2Fmongodb-wallpaper-47zrzrvy%2F&docid=tdscK-qOqBHqbM&w=250&h=240&itg=1&q=mongodb%20logo&ved=0CAgQxiAoCWoXChMIoKfXnoGZhAMVAAAAAB0AAAAAEAc"/> MongoDB
 
 - 🛠️ **Microsoft Proprietary Tools:** 
   - <img src="https://img.icons8.com/color/48/000000/powerapps.png"/> Power Apps
