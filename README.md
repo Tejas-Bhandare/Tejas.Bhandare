@@ -1,64 +1,35 @@
-- 👋 Hi, I’m @TEJAS
-- 👀 I’m interested in ...
-Blockchain,Artificial intelligence,IOT
-- 🌱 I’m currently learning ...
-Pursuing 4th of batchelor's of Computer Engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center">Hi 👋, I'm Tejas</h1>
+<h3 align="center">A passionate Backend developer from India</h3>
 
-# Hello there! 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tejas-bhandare&label=Profile%20views&color=0e75b6&style=flat" alt="tejas-bhandare" /> </p>
 
-Welcome to Tejas Bhandare's GitHub Profile!
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejas-bhandare" alt="tejas-bhandare" /></a> </p>
 
-I'm a passionate computer engineering student with a keen interest in programming and a relentless drive to learn and grow. Here, you'll find a curated collection of both personal and academic projects, along with my contributions to various open-source communities.
+- 🔭 I’m currently working on **Full Stack MEAN Development**
 
-## 🔧 Technologies & Tools
+- 🌱 I’m currently learning **Spring, Spring-Boot, Docker**
 
-Some of the technologies and tools I work with include:
+- 🤝 I’m looking for help with **UI/UX Development**
 
-- 💻 **Programming Languages:** 
-  - <img width="35" height="35" src="https://img.icons8.com/color/48/000000/c-programming.png"/> C, <img width="35" height="35" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> C++, <img width="35" height="35" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> Java, <img width="35" height="35" src="https://img.icons8.com/color/48/000000/typescript.png"/> TypeScript, <img width="35" height="35" src="https://img.icons8.com/color/48/000000/javascript.png"/> JavaScript
+- 💬 Ask me about **Angular, Java**
 
-- 🌐 **Client-side Technologies:** 
-  - <img width="35" height="35" src="https://img.icons8.com/color/48/000000/html-5.png"/> HTML <img width="35" height="35" src="https://img.icons8.com/color/48/000000/css3.png"/> CSS <img width="35" height="35" src="https://img.icons8.com/color/48/000000/angularjs.png"/> Angular 17
+- 📫 How to reach me **tejasbhandare8329@gmail.com**
 
-- 🖥️ **Server-side Technologies:** 
-  - <img width="35" height="35" src="https://img.icons8.com/color/48/000000/nodejs.png"/> Node.js <img width="35" height="35" src="https://img.icons8.com/ios/50/express-js.png" alt="express-js"/>Express.js
+- 📄 Know about my experiences [https://drive.google.com/file/d/1uzRZIUiTvWWAiRY_AL8zQpI-jN4jcy12/view?usp=sharing](https://drive.google.com/file/d/1uzRZIUiTvWWAiRY_AL8zQpI-jN4jcy12/view?usp=sharing)
 
-- 🗃️ **Database Technologies:** 
-  - <img width="35" height="35" src="https://img.icons8.com/color/48/000000/mysql.png"/> MySQL <img width="35" height="35" src="https://www.cdnlogo.com/logos/m/30/mongodb-icon.svg"/> MongoDB
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/tejas-bhandare-542bb8221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejas-bhandare-542bb8221" height="30" width="40" /></a>
+<a href="https://instagram.com/its_tejas_bhandare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_tejas_bhandare" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/tejasbhandare8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tejasbhandare8" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/tejasbhandare8329" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tejasbhandare8329" height="30" width="40" /></a>
+</p>
 
-- 🛠️ **Microsoft Proprietary Tools:** 
-  - <img width="35" height="35"  src="https://img.icons8.com/fluency/48/microsoft-power-apps.png"/> Power Apps
-  - <img width="35" height="35"  src="https://img.icons8.com/color/48/000000/power-bi.png"/> Power BI
-  - <img width="35" height="35"  src="https://img.icons8.com/color/48/000000/power-automate.png"/> Power Automate
-  - <img width="35" height="35"  src="https://img.icons8.com/color/48/000000/sharepoint.png"/> SharePoint
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-## 🚀 Projects
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejas-bhandare&show_icons=true&locale=en&layout=compact" alt="tejas-bhandare" /></p>
 
-Here are a few highlights from my portfolio:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejas-bhandare&show_icons=true&locale=en" alt="tejas-bhandare" /></p>
 
-- **Restaurant Record Management App:** A MEAN stack application with Angular, facilitating seamless communication between customers and service providers.
-  
-- **Event Hub App:** An event management platform built using the MEAN stack, featuring authentication and subscription functionalities.
-
-- **Angular Projects Repository:** A comprehensive collection of Angular applications showcasing various development concepts.
-
-For more details about these projects and others, feel free to explore my repository!
-
-## 📚 Education
-
-- **B.E. in Computer Engineering,** Guru Gobind Singh College of Engineering and Research Center, Nashik *(June 2020 - July 2024)*
-- **Higher Secondary School Certificate Examination,** Dada Patil Mahavidyalaya, Karjat *(June 2018 - February 2020)*
-- **Secondary School Certificate Examination,** Shri Jagadamba Vidyalaya, Rashin *(June 2017 - March 2018)*
-
-## 💼 Internships
-
-- **Software Engineer Intern,** ABB India Ltd. *(July 2023 - October 2023)*
-- **Web Developer Intern,** ADL Co-ordinates Pvt. Ltd. *(February 2023 - March 2023)*
-
-Feel free to explore my GitHub profile, and don't hesitate to reach out if you have any questions or would like to collaborate on a project. Let's build something amazing together!
-<!---
-PhoenixTEJAS/PhoenixTEJAS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejas-bhandare&" alt="tejas-bhandare" /></p>
