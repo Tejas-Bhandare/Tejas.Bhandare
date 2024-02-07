@@ -17,22 +17,22 @@ I'm a passionate computer engineering student with a keen interest in programmin
 Some of the technologies and tools I work with include:
 
 - 💻 **Programming Languages:** 
-  - <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> C, <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> C++, <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> Java, <img src="https://img.icons8.com/color/48/000000/typescript.png"/> TypeScript, <img src="https://img.icons8.com/color/48/000000/javascript.png"/> JavaScript
+  - <img width="35" height="35" src="https://img.icons8.com/color/48/000000/c-programming.png"/> C, <img width="35" height="35" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> C++, <img width="35" height="35" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> Java, <img width="35" height="35" src="https://img.icons8.com/color/48/000000/typescript.png"/> TypeScript, <img width="35" height="35" src="https://img.icons8.com/color/48/000000/javascript.png"/> JavaScript
 
 - 🌐 **Client-side Technologies:** 
-  - <img src="https://img.icons8.com/color/48/000000/html-5.png"/> HTML <img src="https://img.icons8.com/color/48/000000/css3.png"/> CSS <img src="https://img.icons8.com/color/48/000000/angularjs.png"/> Angular 17
+  - <img width="35" height="35" src="https://img.icons8.com/color/48/000000/html-5.png"/> HTML <img width="35" height="35" src="https://img.icons8.com/color/48/000000/css3.png"/> CSS <img width="35" height="35" src="https://img.icons8.com/color/48/000000/angularjs.png"/> Angular 17
 
 - 🖥️ **Server-side Technologies:** 
-  - <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> Node.js <img width="50" height="50" src="https://img.icons8.com/ios/50/express-js.png" alt="express-js"/>Express.js
+  - <img width="35" height="35" src="https://img.icons8.com/color/48/000000/nodejs.png"/> Node.js <img width="35" height="35" src="https://img.icons8.com/ios/50/express-js.png" alt="express-js"/>Express.js
 
 - 🗃️ **Database Technologies:** 
-  - <img src="https://img.icons8.com/color/48/000000/mysql.png"/> MySQL <img width="50" height="50" src="https://www.cdnlogo.com/logos/m/30/mongodb-icon.svg"/> MongoDB
+  - <img width="35" height="35" src="https://img.icons8.com/color/48/000000/mysql.png"/> MySQL <img width="35" height="35" src="https://www.cdnlogo.com/logos/m/30/mongodb-icon.svg"/> MongoDB
 
 - 🛠️ **Microsoft Proprietary Tools:** 
-  - <img width="40" height="40" src="https://img.icons8.com/fluency/48/microsoft-power-apps.png"/> Power Apps
+  - <img width="35" height="35"  src="https://img.icons8.com/fluency/48/microsoft-power-apps.png"/> Power Apps
   - <img width="35" height="35"  src="https://img.icons8.com/color/48/000000/power-bi.png"/> Power BI
-  - <img src="https://img.icons8.com/color/48/000000/power-automate.png"/> Power Automate
-  - <img src="https://img.icons8.com/color/48/000000/sharepoint.png"/> SharePoint
+  - <img width="35" height="35"  src="https://img.icons8.com/color/48/000000/power-automate.png"/> Power Automate
+  - <img width="35" height="35"  src="https://img.icons8.com/color/48/000000/sharepoint.png"/> SharePoint
 
 ## 🚀 Projects
 
