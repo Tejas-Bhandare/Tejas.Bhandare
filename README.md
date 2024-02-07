@@ -29,8 +29,8 @@ Some of the technologies and tools I work with include:
   - <img src="https://img.icons8.com/color/48/000000/mysql.png"/> MySQL <img width="50" height="50" src="https://www.cdnlogo.com/logos/m/30/mongodb-icon.svg"/> MongoDB
 
 - 🛠️ **Microsoft Proprietary Tools:** 
-  - <img width="45" height="45" src="https://img.icons8.com/fluency/48/microsoft-power-apps.png"/> Power Apps
-  - <img src="https://img.icons8.com/color/48/000000/power-bi.png"/> Power BI
+  - <img width="40" height="40" src="https://img.icons8.com/fluency/48/microsoft-power-apps.png"/> Power Apps
+  - <img width="35" height="35"  src="https://img.icons8.com/color/48/000000/power-bi.png"/> Power BI
   - <img src="https://img.icons8.com/color/48/000000/power-automate.png"/> Power Automate
   - <img src="https://img.icons8.com/color/48/000000/sharepoint.png"/> SharePoint
 
