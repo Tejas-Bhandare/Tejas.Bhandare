@@ -16,11 +16,6 @@ I'm a passionate computer engineering student with a keen interest in programmin
 
 Some of the technologies and tools I work with include:
 
-- **Programming Languages:** C, C++, Java, TypeScript, JavaScript
-- **Client-side Technologies:** HTML, CSS, Angular 17
-- **Server-side Technologies:** Node.js, Express.js
-- **Database Technologies:** MySQL, MongoDB
-- **Microsoft Proprietary Tools:** Power Apps, Power BI, Power Automate, SharePoint
 - 💻 **Programming Languages:** 
   - <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> C, <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> C++, <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> Java, <img src="https://img.icons8.com/color/48/000000/typescript.png"/> TypeScript, <img src="https://img.icons8.com/color/48/000000/javascript.png"/> JavaScript
 
@@ -34,7 +29,7 @@ Some of the technologies and tools I work with include:
   - <img src="https://img.icons8.com/color/48/000000/mysql.png"/> MySQL <img width="50" height="50" src="https://www.cdnlogo.com/logos/m/30/mongodb-icon.svg"/> MongoDB
 
 - 🛠️ **Microsoft Proprietary Tools:** 
-  - <img width="50" height="50" src="https://img.icons8.com/fluency/48/microsoft-power-apps.png"/> Power Apps
+  - <img width="45" height="45" src="https://img.icons8.com/fluency/48/microsoft-power-apps.png"/> Power Apps
   - <img src="https://img.icons8.com/color/48/000000/power-bi.png"/> Power BI
   - <img src="https://img.icons8.com/color/48/000000/power-automate.png"/> Power Automate
   - <img src="https://img.icons8.com/color/48/000000/sharepoint.png"/> SharePoint
