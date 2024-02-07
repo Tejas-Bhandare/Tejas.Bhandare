@@ -31,7 +31,7 @@ Some of the technologies and tools I work with include:
   - <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> Node.js <img width="50" height="50" src="https://img.icons8.com/ios/50/express-js.png" alt="express-js"/>Express.js
 
 - 🗃️ **Database Technologies:** 
-  - <img src="https://img.icons8.com/color/48/000000/mysql.png"/> MySQL <img src="https://www.cdnlogo.com/logos/m/30/mongodb-icon.svg"/> MongoDB
+  - <img src="https://img.icons8.com/color/48/000000/mysql.png"/> MySQL <img width="50" height="50" src="https://www.cdnlogo.com/logos/m/30/mongodb-icon.svg"/> MongoDB
 
 - 🛠️ **Microsoft Proprietary Tools:** 
   - <img src="https://img.icons8.com/color/48/000000/powerapps.png"/> Power Apps
