@@ -21,12 +21,8 @@ Some of the technologies and tools I work with include:
 - **Server-side Technologies:** Node.js, Express.js
 - **Database Technologies:** MySQL, MongoDB
 - **Microsoft Proprietary Tools:** Power Apps, Power BI, Power Automate, SharePoint
- - 💻 **Programming Languages:** 
-  - <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> C
-  - <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> C++
-  - <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> Java
-  - <img src="https://img.icons8.com/color/48/000000/typescript.png"/> TypeScript
-  - <img src="https://img.icons8.com/color/48/000000/javascript.png"/> JavaScript
+- 💻 **Programming Languages:** 
+  - <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> C, <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> C++, <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> Java, <img src="https://img.icons8.com/color/48/000000/typescript.png"/> TypeScript, <img src="https://img.icons8.com/color/48/000000/javascript.png"/> JavaScript
 
 - 🌐 **Client-side Technologies:** 
   - <img src="https://img.icons8.com/color/48/000000/html-5.png"/> HTML
