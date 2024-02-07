@@ -28,7 +28,7 @@ Some of the technologies and tools I work with include:
   - <img src="https://img.icons8.com/color/48/000000/html-5.png"/> HTML <img src="https://img.icons8.com/color/48/000000/css3.png"/> CSS <img src="https://img.icons8.com/color/48/000000/angularjs.png"/> Angular 17
 
 - 🖥️ **Server-side Technologies:** 
-  - <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> Node.js <img src="[https://img.icons8.com/color/48/000000/expressjs.png](https://icons8.com/icons/set/expressjs)"/> Express.js
+  - <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> Node.js <img width="50" height="50" src="https://img.icons8.com/ios/50/express-js.png" alt="express-js"/>Express.js
 
 - 🗃️ **Database Technologies:** 
   - <img src="https://img.icons8.com/color/48/000000/mysql.png"/> MySQL <img [src="https://img.icons8.com/color/48/000000/mongodb.png"](https://icons8.com/icons/set/expressjs)/> MongoDB
