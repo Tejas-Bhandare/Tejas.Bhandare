@@ -21,6 +21,31 @@ Some of the technologies and tools I work with include:
 - **Server-side Technologies:** Node.js, Express.js
 - **Database Technologies:** MySQL, MongoDB
 - **Microsoft Proprietary Tools:** Power Apps, Power BI, Power Automate, SharePoint
+ - 💻 **Programming Languages:** 
+  - <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> C
+  - <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> C++
+  - <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> Java
+  - <img src="https://img.icons8.com/color/48/000000/typescript.png"/> TypeScript
+  - <img src="https://img.icons8.com/color/48/000000/javascript.png"/> JavaScript
+
+- 🌐 **Client-side Technologies:** 
+  - <img src="https://img.icons8.com/color/48/000000/html-5.png"/> HTML
+  - <img src="https://img.icons8.com/color/48/000000/css3.png"/> CSS
+  - <img src="https://img.icons8.com/color/48/000000/angularjs.png"/> Angular 17
+
+- 🖥️ **Server-side Technologies:** 
+  - <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> Node.js
+  - <img src="https://img.icons8.com/color/48/000000/express.png"/> Express.js
+
+- 🗃️ **Database Technologies:** 
+  - <img src="https://img.icons8.com/color/48/000000/mysql.png"/> MySQL
+  - <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> MongoDB
+
+- 🛠️ **Microsoft Proprietary Tools:** 
+  - <img src="https://img.icons8.com/color/48/000000/powerapps.png"/> Power Apps
+  - <img src="https://img.icons8.com/color/48/000000/power-bi.png"/> Power BI
+  - <img src="https://img.icons8.com/color/48/000000/power-automate.png"/> Power Automate
+  - <img src="https://img.icons8.com/color/48/000000/sharepoint.png"/> SharePoint
 
 ## 🚀 Projects
 
