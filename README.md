@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tejas Bhandare</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tejas-Bhandare&label=Profile%20views&color=0e75b6&style=flat" alt="Tejas-Bhandare" /> </p>
 
-- 🔭 I’m currently working on **Angular**
-- 👯 I’m looking to collaborate on **Angular, Java Development**
+- 🔭 I’m currently working on **C, C++ development**
+- 👯 I’m looking to collaborate on **Angular, Java Development, SQL Database**
 - 🤝 I’m looking for help with **UI Development**
 - 🌱 I’m currently learning **Spring, Spring-Boot, Docker**
 - 💬 Ask me about **Angular, Java**
